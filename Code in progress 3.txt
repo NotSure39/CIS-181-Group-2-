@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>North Side</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        header {
+            background-color: #B3DDF2;
+            color: #FF0000;
+            padding: 20px;
+            text-align: center;
+            font-size: 36px;
+            font-weight: bold;
+        }
+        .item {
+            margin: 20px;
+            padding: 20px;
+            border: 2px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 2px 2px 2px #ccc;
+        }
+        .item h2 {
+            margin-top: 0;
+        }
+        .item img {
+            width: 600px;
+            height: 500px;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>* * North Side * *</header>
+    <div class="item">
+        <h2>Diversey Driving Range</h2>
+        <img src="https://i.postimg.cc/cCJv3V9p/1-Diversey-Driving-Range.jpg" alt="Item 1 Image">
+        <p>Situated on Lake Michigan, Diversey Driving Range is a state-of-the-art modern golf experience with one-of-a-kind views. These modern day conveniences include our synthetic turf range, two synthetic putting greens, eighteen holes of miniature golf, and multiple covered heated hitting mat areas.
+</p>
+    </div>
+    <div class="item">
+        <h2>Cubs game at Wrigley Field</h2>
+        <img src="https://i.postimg.cc/JhWtxyYc/2-Wrigley-Field.jpg" alt="Item 2 Image">
+        <p>Known for its unique traditions and charm, Wrigley Field, which was built in 1914, has been the beloved home of the Chicago Cubs for more than a century. Wrigley Field is notable for various features, including its ivy-covered brick outfield wall, the distinctive wind patterns off Lake Michigan, the iconic red marquee over the main entrance, and the hand-turned scoreboard.</p>
+    </div>
+    <div class="item">
+        <h2>Lincoln Park Zoo</h2>
+        <img src="https://i.postimg.cc/qvKz2cwv/3-LP-Zoo.jpg" alt="Item 3 Image">
+        <p>In a city where skyscrapers are built every day, Lincoln Park Zoo is dedicated to being the place in Chicago for all things wildlife—where children learn to love animals, where adults rediscover what it’s like to wonder, and where nature isn’t just an escape, but the priority..</p>
+    </div>
+    <div class="item">
+        <h2>Green City Farmers Market</h2>
+        <img src="https://i.postimg.cc/VLdSkPbM/4-GC-Market.jpg" alt="Item 4 Image">
+        <p>Discover the best of the Midwest at Green City Market's sustainable farmers' markets. Our year-round farmers' markets are centered around lifting up Midwest growers, promoting the environmental stewardship of land and responsible treatment of animals, and building a vibrant market for local, sustainably-produced food in Chicago.</p>
+    </div>
+    <div class="item">
+        <h2>Alfred Caldwell Lily Pool</h2>
+        <img src="https://i.postimg.cc/43bySJrC/5-Alfred-Caldwell-Lily-Pool.jpg" alt="Item 5 Image">
+        <p>Step through the Prairie-style Fullerton gate and enter a hidden garden of unmatched beauty. Only bird songs and the sound of a gentle waterfall break the restful silence. Follow the stone walk encircling the lily pool and discover a pavilion, council ring, and diverse native plantings. This is the vision of landscape architect Alfred Caldwell: a hidden garden for the people of Chicago designed to resemble a river meandering through a great Midwestern prairie.</p>
+    </div>
+    <div class="item">
+        <h2>Chicago History Museum</h2>
+        <img src="https://i.postimg.cc/pX4m9cDS/6-Chicago-History-Museum.jpg" alt="Item 6 Image">
+        <p>From Chicago's sports to politics, the Union Stockyards to the Great Chicago Fire - there's so much to explore at the Chicago History Museum. Dive right in with the Museum's exhibitions and programs or get out and explore the city through guided tours and events. Founded in 1856, the Chicago History Museum shares Chicago's stories, serving as a hub of scholarship and learning, inspiration and civic engagement. </p>
+    </div>
+    <div class="item">
+        <h2>North Ave Beach</h2>
+        <img src="https://i.postimg.cc/gjBnHN1n/7-North-Ave-Beach.jpg" alt="Item 7 Image">
+        <p>North Avenue Beach is located in Lincoln Park at 1600 N. Lake Shore Drive (North Ave. @ Lake Michigan). As one of Chicago’s most popular beaches, the beach features a unique and popular beach house that contains 22,000 square feet of space that features something for everyone and is permanently docked along this popular beach.</p>
+    </div>
+    <div class="item">
+        <h2>Lincoln Park Conservatory</h2>
+        <img src="https://i.postimg.cc/RFShrkBW/8-LP-Conservatory.jpg" alt="Item 8 Image">
+        <p>Step inside and be transported to another place and time!  We invite you to take a journey to the Lincoln Park Conservatory where you will find tropical palms and ancient ferns right in the heart of Lincoln Park. Designed both to showcase exotic plants and grow the thousands of plants needed for use in the parks, the Conservatory offers visitors a tropical experience within its four display houses: Palm House, Fern Room, Orchid House and Show House, which is home to the annual flower shows. </p>
+    </div>
+    <div class="item">
+        <h2>Peggy Notebaert Nature Museum</h2>
+        <img src="https://i.postimg.cc/gcMXp2rm/9-Peggy-Notebaert.jpg" alt="Item 9 Image">
+        <p>Do you ever wonder how a butterfly gets its colors? Or how turtles hibernate? Do you wonder how birds know where to migrate each year? For over 165 years, the Chicago Academy of Sciences / Peggy Notebaert Nature Museum has served a unique role in the city of Chicago connecting people of all ages to nature and science through immersive exhibits, fun family events, important conservation research and in-depth education programs, inspiring the wonder in all of us.</p>
+    </div>
+    <div class="item">
+        <h2>Graceland Cemetary</h2>
+        <img src="https://i.postimg.cc/k4T47TJf/10-Graceland-Cemetary.jpg" alt="Item 10 Image">
+        <p>Graceland Cemetery is one of Chicago’s finest hidden treasures. On the North Side, amongst the everyday hustle and bustle, lies a serene yet vibrant park-like cemetery. Located between two major Chicago cross streets, Clark & Irving Park, Graceland Cemetery is the final resting place to many prominent Chicago figures, including athletes, politicians, industrialists and many of the finest architects of the last century. Designed by visionary landscape architects, including O.C. Simonds, Graceland both serves as a glimpse into the past and a beautiful place for the future.</p>
+    </div>
+</body>
+</html>
+
+   <nav>
+      <ul>
+         <li><a href="#">Home Page</a></li>
+         <li><a href="#">North Side</a></li>
+         <li><a href="#">South Side</a></li>
+         <li><a href="#">West Side</a></li>
+         <li><a href="#">The Loop</a></li>
+      </ul>
+   </nav>

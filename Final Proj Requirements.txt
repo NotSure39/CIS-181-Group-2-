@@ -1,0 +1,7 @@
+Leader uploads github
+
+Need index/front page
+
+Need all files
+
+Settings > Pages > Branch change to main and save

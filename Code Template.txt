@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Webpage</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+            font-size: 36px;
+            font-weight: bold;
+        }
+        .item {
+            margin: 20px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 2px 2px 2px #ccc;
+        }
+        .item h2 {
+            margin-top: 0;
+        }
+        .item img {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>My Webpage</header>
+    <div class="item">
+        <h2>Item 1</h2>
+        <img src="item1.jpg" alt="Item 1 Image">
+        <p>Description of item 1.</p>
+    </div>
+    <div class="item">
+        <h2>Item 2</h2>
+        <img src="item2.jpg" alt="Item 2 Image">
+        <p>Description of item 2.</p>
+    </div>
+    <div class="item">
+        <h2>Item 3</h2>
+        <img src="item3.jpg" alt="Item 3 Image">
+        <p>Description of item 3.</p>
+    </div>
+    <div class="item">
+        <h2>Item 4</h2>
+        <img src="item4.jpg" alt="Item 4 Image">
+        <p>Description of item 4.</p>
+    </div>
+    <div class="item">
+        <h2>Item 5</h2>
+        <img src="item5.jpg" alt="Item 5 Image">
+        <p>Description of item 5.</p>
+    </div>
+    <div class="item">
+        <h2>Item 6</h2>
+        <img src="item6.jpg" alt="Item 6 Image">
+        <p>Description of item 6.</p>
+    </div>
+    <div class="item">
+        <h2>Item 7</h2>
+        <img src="item7.jpg" alt="Item 7 Image">
+        <p>Description of item 7.</p>
+    </div>
+    <div class="item">
+        <h2>Item 8</h2>
+        <img src="item8.jpg" alt="Item 8 Image">
+        <p>Description of item 8.</p>
+    </div>
+    <div class="item">
+        <h2>Item 9</h2>
+        <img src="item9.jpg" alt="Item 9 Image">
+        <p>Description of item 9.</p>
+    </div>
+    <div class="item">
+        <h2>Item 10</h2>
+        <img src="item10.jpg" alt="Item 10 Image">
+        <p>Description of item 10.</p>
+    </div>
+</body>
+</html>
